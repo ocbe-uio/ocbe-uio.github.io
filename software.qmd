@@ -1,0 +1,20 @@
+---
+title: "Software"
+subtitle: "This is a collection of OCBE software"
+---
+
+## R packages 
+
+bayesynergy
+
+[Package page](https://ocbe-uio.github.io/bayesynergy/)
+
+[Github repo](https://github.com/ocbe-uio/bayesynergy)
+
+...
+
+## Python packages
+
+
+
+

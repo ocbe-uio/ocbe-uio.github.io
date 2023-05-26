@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: true
+  title: "Oslo Center for Biostatistics and Epidemiology"
+  
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+        
+      - href: https://github.com/ocbe-uio
+        text: GitHub
+
+      - href: software.qmd
+        text: Software
+
+      - href: resources.qmd
+        text: Resources
+
+      - href: about.qmd
+        text: About
+
+format:
+  html:
+    theme: flatly
+    # css: styles.css
+    title-block-banner: "#000000"
+    title-block-banner-color: "#000000"
+
+
+

@@ -1,0 +1,23 @@
+---
+title: "Oslo Center for Biostatistics and Epidemiology"
+# image: resources/epicurve.png
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/ocbe-uio
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/OCBE_UniOslo
+title-block-banner: false
+---
+
+:::{#hero-heading}
+
+Oslo Centre for Biostatistics and Epidemiology (OCBE) is a joint center integrating the activities of the Department of Biostatistics, UiO and the Section of Biostatistics and Epidemiology, OUS.
+
+
+:::
+
